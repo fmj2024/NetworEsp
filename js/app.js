@@ -4,8 +4,8 @@ check.addEventListener('click', idioma);
 function idioma() {
     let id=check.checked;
     if (id==true) {
-        location.href= "../index.html";
+        location.href= "https://fmj2024.github.io/Network/";
     } else{
-        location.href = "https://fmj2024.github.io/Network/";
+        location.href = "https://fmj2024.github.io/NetworEsp/";
     }
 }
