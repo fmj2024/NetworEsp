@@ -6,6 +6,6 @@ function idioma() {
     if (id==true) {
         location.href= "https://fmj2024.github.io/Network/";
     } else{
-        location.href = "https://fmj2024.github.io/NetworEsp/";
+        location.href = "../index.html";
     }
 }
