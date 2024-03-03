@@ -4,8 +4,8 @@ check.addEventListener('click', idioma);
 function idioma() {
     let id=check.checked;
     if (id==true) {
-        location.href= "https://sibur.greendigitalplatform.com/start";
+        location.href= "../index.html";
     } else{
-        location.href = "../index.html";
+        location.href = "https://fmj2024.github.io/Network/";
     }
 }
